@@ -1,5 +1,0 @@
-# Bacum
-
-Vacuum reactive agent.
-
-
